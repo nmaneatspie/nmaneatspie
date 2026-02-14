@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @nmaneatspie
 - 👀 I’m interested in coding all sorts of things in different areas.
 - 🌱 I’m currently practicing Python.
-- Moved code to a private forgejo server. Snippets of code may be available for public view here.
+- Moved code to a private forgejo server. Snippets of my coding work may be available for public view here.
